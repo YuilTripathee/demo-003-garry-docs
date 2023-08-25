@@ -18,6 +18,8 @@ MkDocs is a Python package when turns your docs directory and YAML config into a
 
 ## Purpose
 
+Just to say hi to Garry.
+
 This project provides low-code content-focused way to set up and host a markdown-based documentation site, with a professional look and themes. Built with MkDocs - a Python package which is a static site generator specializing in documentation.
 
 A GitHub Actions workflow is provided with this template so you can easily deploy to GitHub Pages too.
